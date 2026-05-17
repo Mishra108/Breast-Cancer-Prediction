@@ -9,6 +9,12 @@ Built using Python, Scikit-learn, and Streamlit.
 
 ---
 
+# 🌐 Live Demo
+
+🔗 [Click Here to Open App](https://breastcancerpredicti0n.streamlit.app/)
+
+---
+
 # 🚀 Features
 
 - Breast Cancer Prediction
@@ -40,10 +46,6 @@ Breast-Cancer-Prediction/
 ├── requirements.txt
 └── README.md
 ```
-
----
-
----
 
 # 📊 Dataset
 
